@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Vikas Potluri
 # 💫 About Me:
-I'm currently working on Time Series Forecasting(Retail and CPG Domain)<br>I'm looking to collaborate on  Makridakis(M competitions)<br>I'm looking for help with Confirmal Prediction Approaches<br>I'm currently learning Darts and Nixtla (AI/ML Toolkits)<br>Ask me about : Econometrics, Tabular Data<br>Fun Fact: Econometrics is True Data Science
+I'm currently working on Time Series Forecasting(Retail and CPG Domain)<br>I'm looking to collaborate on  Makridakis(M competitions)<br>I'm looking for help with Confirmal Prediction Approaches<br>I'm currently learning Darts and Nixtla (AI/ML Toolkits)<br>Interests :Books,Badminton <br>Fun Fact: Econometrics is Original Data Science
 
 
 ## 🌐 Socials:
