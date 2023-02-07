@@ -70,7 +70,18 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 
-</details> 
+</details>
+<details>
+
+<summary>GitHub Stats</summary>  
+
+![](https://github-readme-stats.vercel.app/api?username=vikas-potluri&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=vikas-potluri&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vikas-potluri&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+![](https://github-profile-trophy.vercel.app/?username=vikas-potluri&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=4)
+
+<details>
 
 <!-- Activity graph -->
 
