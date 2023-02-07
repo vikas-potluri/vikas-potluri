@@ -41,24 +41,14 @@
 
 </details>
 
+ 
+
 <details>
 
-<summary>Languages</summary>  
+<summary>🛠️ Tech Stack</summary>
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-
-
-<p align="center">
-  <img src="assets/leetcode.jpg" alt="Leetcode-DSA" />
-</p>
-
-</details> 
-
-<details>
-
-<summary>Technology</summary>  
-
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
@@ -73,7 +63,7 @@
 </details>
 <details>
 
-<summary>GitHub Stats</summary>  
+<summary>🔥 Stats</summary>  
 
 ![](https://github-readme-stats.vercel.app/api?username=vikas-potluri&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vikas-potluri&theme=dark&hide_border=false)<br/>
