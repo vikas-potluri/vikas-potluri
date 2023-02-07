@@ -20,9 +20,10 @@
   <img src="assets/me1.gif" alt="vikas-potluri" width="200" />
 </p>
 
-- 🌏 Lives in **Hyderabad,India**
+- 🌏 Lives in **Hyderabad,India**![image](https://user-images.githubusercontent.com/123396749/217304515-7380cec7-b50b-42ed-a904-7d33ffeb09a0.png)
+
 - 👨‍💻 Upcoming Data Scientist @ **[Asper.ai](https://www.asper.ai/)**
-- 🛠 Read **M.Tech. Artificial Intelligence** ('23) from **[IIT Roorkee](https://www.iitr.ac.in/mfsdsai/)**
+- 🎓 Read **M.Tech. Artificial Intelligence** ('23) from **[IIT Roorkee](https://www.iitr.ac.in/mfsdsai/)**
 - 🧠 Learning: **Probablistic Machine Learning** & **Econometrics**
 - 📖
   Reading: **[The Course of Love-Alain de Botton](https://www.goodreads.com/user/show/103756796-vikas-potluri)**
@@ -32,7 +33,6 @@
   GodFathers: **[Marcus Aurelius ](https://www.youtube.com/watch?v=Auuk1y4DRgk)**
    **[Jordan Peterson ](https://www.youtube.com/watch?v=L47oJxwp6yg)**
     **[S.N Goenka ](https://www.youtube.com/watch?v=cz7QHNvNFfA&list=PLPJVlVRVmhc4Z01fD57jbzycm9I6W054x)**
-     **[Jordan Peterson ](https://youtu.be/n2i917l5RFc)**
 - ♟ Plays: `e4`
 - ⚡ Fun fact: **Certified Personal Trainer** (Specialisation in Strength Training, Kettlebell Training, and High-Intensity Interval Training (HIIT))
 - 👴 Retirement plan: Study **Philosop** in _Florence_, Italy.
