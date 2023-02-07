@@ -36,8 +36,8 @@
 - 😎Interests: Badminton 🏸, Books(Philosophy,Psychology)📖
 - ⚡ Fun fact: **Econometrics is Original Data Science**
 
-> "Don't just say you have read books. Show that through them you have learned to think better, to be a more discriminating and reflective person.**Books are the training weights of the mind**. They are very helpful, but it would be a bad mistake to suppose that one has made progress simply by having internalized their contents."
- -EPICTETUS
+>“**Live a good life**. If there are gods and they are just, then they will not care how devout you have been, but will welcome you based on the virtues you have lived by. If there are gods, but unjust, then you should not want to worship them. If there are no gods, then you will be gone, but will have lived a noble life that will live on in the memories of your loved ones.”
+ -**Marcus Aurelius**
 
 </details>
 
