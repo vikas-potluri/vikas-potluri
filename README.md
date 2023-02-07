@@ -1,25 +1,79 @@
-Hi there 👋 I'm Vikas Potluri
-# 💫 About Me:
-I'm currently working on Time Series Forecasting(Retail and CPG Domain)<br>I'm looking to collaborate on  Makridakis(M competitions)<br>I'm looking for help with Confirmal Prediction Approaches<br>I'm currently learning Probablistic Machine Learning<br>Interests :Books,Badminton <br>Fun Fact: Econometrics is Original Data Science
+<p align="center">
+  <img src="assets/signature.png" alt="vikas-potluri" width="250" />
+</p>
 
+<p align="center">
+  <img src="assets/superman.png" alt="vikas-potluri" width="275" />
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sai-vikas-potluri-832360228/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@vikaspotluri) 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vikas-potluri&color=green&style=liquid" />
+</p>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vikaspotluri16b&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=vikaspotluri16b&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vikaspotluri16b&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<h2  align="center">💡 VIEW IN LIGHT MODE 💡</h2>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vikaspotluri16b&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=4)
+<details>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+<summary>Biography</summary>  
 
----
-[![](https://visitcount.itsvg.in/api?id=vikaspotluri16b&icon=6&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="assets/me1.gif" alt="vikas-potluri" width="200" />
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 🌏 Lives in **Hyderabad,India**
+- 👨‍💻 Upcoming Data Scientist @ **[Asper.ai](https://www.asper.ai/)**
+- 🛠 Read **M.Tech. Artificial Intelligence** ('23) from **[IIT Roorkee](https://www.iitr.ac.in/mfsdsai/)**
+- 🧠 Learning: **Probablistic Machine Learning** & **Econometrics**
+- 📖
+  Reading: **[The Course of Love-Alain de Botton](https://www.goodreads.com/user/show/103756796-vikas-potluri)**
+- 🎧
+  Listening: **[So Many Tears - 2Pac](https://youtu.be/pFNDh4smb6k)**
+- 👓
+  Watching: **[Full Metal Jacket - Stanley Kubrick](https://youtu.be/n2i917l5RFc)**
+- ♟ Plays: `e4`
+- ⚡ Fun fact: **Certified Personal Trainer** (Specialisation in Strength Training, Kettlebell Training, and High-Intensity Interval Training (HIIT))
+- 👴 Retirement plan: Study **Philosop** in _Florence_, Italy.
+
+> "If there’s anyone in this assembly, any dear friend of Caesar’s, I say to him that my love for Caesar was no less than his. If, then, that friend demands to know why I rose up against Caesar, this is my answer: **it’s not that I loved Caesar less, but that I loved Rome more**." ― Julius Caesar by Shakespeare (Act 3, Scene 2)
+
+</details>
+
+<details>
+
+<summary>Languages</summary>  
+
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlin/kotlin-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
+
+<p align="center">
+  <img src="assets/java.png" alt="mughees-asif-java-codingame" />
+</p>
+
+</details> 
+
+<details>
+
+<summary>Technology</summary>  
+
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
+
+</details> 
+
+<!-- Activity graph -->
+
+[comment]: <> (<p align="center"><img align="center" src="https://activity-graph.herokuapp.com/graph?username=mughees-asif&theme=github&bg_color=ffffff00&color=006400&point=00A14A&line=BAFF5E&custom_title=Commit%20Activity&hide_border=true&area=true" alt="Mughees's monthly coding activity" /></p>)
