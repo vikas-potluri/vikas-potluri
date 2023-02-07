@@ -20,7 +20,7 @@
   <img src="assets/me1.gif" alt="vikas-potluri" width="200" />
 </p>
 
-- 🌏 Lives in **Hyderabad,India**![image](https://user-images.githubusercontent.com/123396749/217304515-7380cec7-b50b-42ed-a904-7d33ffeb09a0.png)
+- 🌏 Lives in **Hyderabad,India**🇮🇳
 
 - 👨‍💻 Upcoming Data Scientist @ **[Asper.ai](https://www.asper.ai/)**
 - 🎓 Read **M.Tech. Artificial Intelligence** ('23) from **[IIT Roorkee](https://www.iitr.ac.in/mfsdsai/)**
