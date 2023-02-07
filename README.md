@@ -81,7 +81,7 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=vikas-potluri&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=4)
 
-<details>
+</details>
 
 <!-- Activity graph -->
 
