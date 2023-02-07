@@ -74,4 +74,4 @@
 
 <!-- Activity graph -->
 
-[comment]: <> (<p align="center"><img align="center" src="https://activity-graph.herokuapp.com/graph?username=mughees-asif&theme=github&bg_color=ffffff00&color=006400&point=00A14A&line=BAFF5E&custom_title=Commit%20Activity&hide_border=true&area=true" alt="Mughees's monthly coding activity" /></p>)
+[comment]: <> (<p align="center"><img align="center" src="https://activity-graph.herokuapp.com/graph?username=vikas-potluri&theme=github&bg_color=ffffff00&color=006400&point=00A14A&line=BAFF5E&custom_title=Commit%20Activity&hide_border=true&area=true" alt="Vikas's monthly coding activity" /></p>)
