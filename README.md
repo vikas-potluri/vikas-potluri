@@ -52,7 +52,7 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
 
 <p align="center">
-  <img src="assets/leetcode.jpg" alt="Vikas-Potluri-Leetcode-Stint" />
+  <img src="assets/leetcode.jpg" alt="Leetcode-DSA" />
 </p>
 
 </details> 
