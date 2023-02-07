@@ -24,7 +24,7 @@
 
 - 👨‍💻 Upcoming Data Scientist @ **[Asper.ai](https://www.asper.ai/)**
 - 🎓 Read **M.Tech. Artificial Intelligence** ('23) from **[IIT Roorkee](https://www.iitr.ac.in/mfsdsai/)**
-- 🧠 Learning: **Probablistic Machine Learning** & **Econometrics**
+- 🧠 Learning: **Probablistic Machine Learning** & **Confirmal Prediction **
 - 📖
   Reading: **[The Course of Love-Alain de Botton](https://www.goodreads.com/user/show/103756796-vikas-potluri)**
 - 🎧
@@ -33,11 +33,11 @@
   GodFathers: **[Marcus Aurelius ](https://www.youtube.com/watch?v=Auuk1y4DRgk)**
    **[Jordan Peterson ](https://www.youtube.com/watch?v=L47oJxwp6yg)**
     **[S.N Goenka ](https://www.youtube.com/watch?v=cz7QHNvNFfA&list=PLPJVlVRVmhc4Z01fD57jbzycm9I6W054x)**
--  Interests: Badminton 🏸, Books(Philosophy,Psychology)📖
-- ⚡ Fun fact: **Certified Personal Trainer** (Specialisation in Strength Training, Kettlebell Training, and High-Intensity Interval Training (HIIT))
-- 👴 Retirement plan: Study **Philosop** in _Florence_, Italy.
+- 😎Interests: Badminton 🏸, Books(Philosophy,Psychology)📖
+- ⚡ Fun fact: **Econometrics is Original Data Science**
 
-> "If there’s anyone in this assembly, any dear friend of Caesar’s, I say to him that my love for Caesar was no less than his. If, then, that friend demands to know why I rose up against Caesar, this is my answer: **it’s not that I loved Caesar less, but that I loved Rome more**." ― Julius Caesar by Shakespeare (Act 3, Scene 2)
+> "Don't just say you have read books. Show that through them you have learned to think better, to be a more discriminating and reflective person.**Books are the training weights of the mind**. They are very helpful, but it would be a bad mistake to suppose that one has made progress simply by having internalized their contents."
+ -EPICTETUS
 
 </details>
 
