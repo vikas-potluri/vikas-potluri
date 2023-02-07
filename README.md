@@ -14,7 +14,7 @@
 
 <details>
 
-<summary>Biography</summary>  
+<summary>👩‍💻 Biography</summary>  
 
 <p align="center">
   <img src="assets/me1.gif" alt="vikas-potluri" width="200" />
