@@ -27,9 +27,12 @@
 - 📖
   Reading: **[The Course of Love-Alain de Botton](https://www.goodreads.com/user/show/103756796-vikas-potluri)**
 - 🎧
-  Listening: **[So Many Tears - 2Pac](https://youtu.be/pFNDh4smb6k)**
+  Listening: **[Lex Fridman Podcasts](https://www.youtube.com/@lexfridman)**
 - 👓
-  Watching: **[Full Metal Jacket - Stanley Kubrick](https://youtu.be/n2i917l5RFc)**
+  GodFathers: **[Marcus Aurelius ](https://www.youtube.com/watch?v=Auuk1y4DRgk)**
+   **[Jordan Peterson ](https://www.youtube.com/watch?v=L47oJxwp6yg)**
+    **[S.N Goenka ](https://www.youtube.com/watch?v=cz7QHNvNFfA&list=PLPJVlVRVmhc4Z01fD57jbzycm9I6W054x)**
+     **[Jordan Peterson ](https://youtu.be/n2i917l5RFc)**
 - ♟ Plays: `e4`
 - ⚡ Fun fact: **Certified Personal Trainer** (Specialisation in Strength Training, Kettlebell Training, and High-Intensity Interval Training (HIIT))
 - 👴 Retirement plan: Study **Philosop** in _Florence_, Italy.
