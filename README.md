@@ -24,7 +24,7 @@
 
 - 👨‍💻 Upcoming Data Scientist @ **[Asper.ai](https://www.asper.ai/)**
 - 🎓 Read **M.Tech. Artificial Intelligence** ('23) from **[IIT Roorkee](https://www.iitr.ac.in/mfsdsai/)**
-- 🧠 Learning: **Probablistic Machine Learning** & **Confirmal Prediction **
+- 🧠 Learning: **Probablistic Machine Learning** & **Confirmal Prediction**
 - 📖
   Reading: **[The Course of Love-Alain de Botton](https://www.goodreads.com/user/show/103756796-vikas-potluri)**
 - 🎧
