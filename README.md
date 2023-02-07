@@ -20,7 +20,7 @@
   <img src="assets/me1.gif" alt="vikas-potluri" width="200" />
 </p>
 
-- 🌏 Lives in **Hyderabad,India**🇮🇳
+- 🌏 Lives in **Hyderabad,India**
 
 - 👨‍💻 Upcoming Data Scientist @ **[Asper.ai](https://www.asper.ai/)**
 - 🎓 Read **M.Tech. Artificial Intelligence** ('23) from **[IIT Roorkee](https://www.iitr.ac.in/mfsdsai/)**
@@ -33,7 +33,7 @@
   GodFathers: **[Marcus Aurelius ](https://www.youtube.com/watch?v=Auuk1y4DRgk)**
    **[Jordan Peterson ](https://www.youtube.com/watch?v=L47oJxwp6yg)**
     **[S.N Goenka ](https://www.youtube.com/watch?v=cz7QHNvNFfA&list=PLPJVlVRVmhc4Z01fD57jbzycm9I6W054x)**
-- ♟ Plays: `e4`
+-  Interests: Badminton 🏸, Books(Philosophy,Psychology)📖
 - ⚡ Fun fact: **Certified Personal Trainer** (Specialisation in Strength Training, Kettlebell Training, and High-Intensity Interval Training (HIIT))
 - 👴 Retirement plan: Study **Philosop** in _Florence_, Italy.
 
