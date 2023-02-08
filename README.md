@@ -17,7 +17,7 @@
 <summary>👦🏻 Biography</summary>  
 
 <p align="center">
-  <img src="assets/me1.gif" alt="vikas-potluri" width="200" />
+  <img src="assets/<iframe src="https://giphy.com/embed/5k5vZwRFZR5aZeniqb" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/content-jasper-ai-5k5vZwRFZR5aZeniqb">via GIPHY</a></p>" alt="vikas-potluri" width="200" />
 </p>
 
 - 🌏 Lives in **Hyderabad,India**
