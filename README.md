@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/wp4874414.jpg" alt="vikas-potluri" width="275" />
+  <img src="assets/joker-red-black-eyes-wallpaper-preview.jpg" alt="vikas-potluri" width="275" />
 </p>
 
 <p align="center">
