@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/joker-the-dark-knight-paint-splatter-batman-wallpaper-preview.jpg" alt="vikas-potluri" width="275" />
+  <img src="assets/My project.jpg" alt="vikas-potluri" width="275" />
 </p>
 
 <p align="center">
