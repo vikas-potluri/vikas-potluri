@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/superman.png" alt="vikas-potluri" width="275" />
+  <img src="assets/wp4874414.jpg" alt="vikas-potluri" width="275" />
 </p>
 
 <p align="center">
