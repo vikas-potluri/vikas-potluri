@@ -56,11 +56,7 @@
     <td valign="middle">
       <div float="left">
         <img src="https://img.shields.io/badge/Python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/R-%23276DC3.svg?&style=flat-square&logo=r&logoColor=white"/>
         <img src="https://img.shields.io/badge/C++-%2300599C.svg?&style=flat-square&logo=cplusplus&logoColor=white"/>
-        <img src="https://img.shields.io/badge/CUDA-%2376B900.svg?&style=flat-square&logo=nvidia&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Matlab-%23ff800f.svg?&style=flat-square&logo=octave&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Java-%23007396.svg?&style=flat-square&logo=java&logoColor=white"/>
         <img src="https://img.shields.io/badge/SQL-%234169E1.svg?&style=flat-square&logo=postgresql&logoColor=white"/>
       </div>
     </td>
@@ -78,7 +74,6 @@
         <img src="https://img.shields.io/badge/Numpy-%23013243.svg?&style=flat-square&logo=numpy&logoColor=white"/>
         <img src="https://img.shields.io/badge/Scipy-%238CAAE6.svg?&style=flat-square&logo=scipy&logoColor=white"/>
         <img src="https://img.shields.io/badge/Pandas-%23150458.svg?&style=flat-square&logo=pandas&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Tidyverse-%23276DC3.svg?&style=flat-square&logo=r&logoColor=white"/>
       </div>
     </td>
   </tr>
@@ -102,10 +97,8 @@
     </td>
     <td valign="middle">
       <div float="left">
-        <img src="https://img.shields.io/badge/AdobeCC-%23FF0000.svg?&style=flat-square&logo=adobe&logoColor=white"/>
         <img src="https://img.shields.io/badge/ggplot2-%23276DC3.svg?&style=flat-square&logo=r&logoColor=white"/>
         <img src="https://img.shields.io/badge/matplotlib-%23F37626.svg?&style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/WebGL-%23990000.svg?&style=flat-square&logo=webgl&logoColor=white"/>
       </div>
     </td>
   </tr>
@@ -116,10 +109,8 @@
     <td valign="middle">
       <div float="left">
         <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white"/>
-        <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white&labelColor=blue"/>
         <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white"/>
         <img src="https://img.shields.io/badge/pycharm-143?style=flat-square&logo=pycharm&logoColor=black&color=black&labelColor=green"/>
-        <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=flat-square&logo=sublime-text&logoColor=important"/>
         <img src="https://img.shields.io/badge/visual_studio_code-%23575757.svg?style=flat-square&logo=visual-studio-code&color=blue&labelColor=blue"/>
       </div>
     </td>
