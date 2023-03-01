@@ -56,7 +56,6 @@
     <td valign="middle">
       <div float="left">
         <img src="https://img.shields.io/badge/Python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/C++-%2300599C.svg?&style=flat-square&logo=cplusplus&logoColor=white"/>
         <img src="https://img.shields.io/badge/SQL-%234169E1.svg?&style=flat-square&logo=postgresql&logoColor=white"/>
       </div>
     </td>
@@ -79,15 +78,14 @@
   </tr>
   <tr>
     <td valign="middle">
-      <span>Web Dev</span>
+      <span>Cloud & Microservices</span>
     </td>
     <td valign="middle">
       <div float="left">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Javascript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/React-%2361DAFB.svg?&style=flat-square&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Node-%23339933.svg?&style=flat-square&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-E34F26?style=flat-square&logo=Docker&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Kubernetes-1572B6?style=flat-square&logo=Kubernetes&logoColor=white"/>
+        <img src="https://img.shields.io/badge/azure-%23F7DF1E.svg?&style=flat-square&logo=azure&logoColor=black"/>
+   
       </div>
     </td>
   </tr>
