@@ -68,7 +68,6 @@
       <div float="left">
         <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?&style=flat-square&logo=pytorch&logoColor=white"/>
         <img src="https://img.shields.io/badge/Tensorflow-%23FF6F00.svg?&style=flat-square&logo=tensorflow&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Keras-%23D00000.svg?&style=flat-square&logo=keras&logoColor=white"/>
         <img src="https://img.shields.io/badge/ScikitLearn-%23F7931E.svg?&style=flat-square&logo=scikitlearn&logoColor=white"/>
         <img src="https://img.shields.io/badge/Numpy-%23013243.svg?&style=flat-square&logo=numpy&logoColor=white"/>
         <img src="https://img.shields.io/badge/Scipy-%238CAAE6.svg?&style=flat-square&logo=scipy&logoColor=white"/>
