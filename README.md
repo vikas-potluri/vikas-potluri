@@ -111,6 +111,7 @@
         <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white"/>
         <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white"/>
         <img src="https://img.shields.io/badge/pycharm-143?style=flat-square&logo=pycharm&logoColor=black&color=black&labelColor=green"/>
+        <img src="https://img.shields.io/badge/jupyter-143?style=flat-square&logo=jupyter&logoColor=black&color=black&labelColor=green"/>
         <img src="https://img.shields.io/badge/visual_studio_code-%23575757.svg?style=flat-square&logo=visual-studio-code&color=blue&labelColor=blue"/>
       </div>
     </td>
