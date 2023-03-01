@@ -84,7 +84,7 @@
       <div float="left">
         <img src="https://img.shields.io/badge/Docker-E34F26?style=flat-square&logo=Docker&logoColor=white"/>
         <img src="https://img.shields.io/badge/Kubernetes-1572B6?style=flat-square&logo=Kubernetes&logoColor=white"/>
-        <img src="https://img.shields.io/badge/microsoft-azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white"/>
+        <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white"/>
       </div>
     </td>
   </tr>
