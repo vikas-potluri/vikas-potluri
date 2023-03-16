@@ -131,7 +131,7 @@
 
 <summary>📶 DS-Profile</summary>  
 <p align="center">
-  <img src="assets/Data_Science_Profile_2023-03-16.png" alt="vikas-potluri" width="1000" />
+  <img src="assets/newplot.png" alt="vikas-potluri" width="1000" />
 </p>
 
 </details>
